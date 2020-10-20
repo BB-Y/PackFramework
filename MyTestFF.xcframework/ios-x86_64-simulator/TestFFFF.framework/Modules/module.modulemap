@@ -1,0 +1,4 @@
+framework module TestFFFF {
+  header "TestFFFF-Swift.h"
+  requires objc
+}
